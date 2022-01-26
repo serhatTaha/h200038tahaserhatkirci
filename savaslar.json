@@ -1,0 +1,66 @@
+[
+  {
+    "Savaş Adı": "<h5>Dandanakan Muharebesi</h5>",
+    "Taraflar": "Büyük Selçuklu X Gazneliler",
+    "Savaş Yılı ": "23 Mayıs 1040",
+    "Önemi": "<b>Gazneliler yıkılma dönemi başlarken selçuklu devleti ise resmen kuruldu.</b><br>",
+    "resimUrl": "http:",
+    "Bölge": "<h5>Dandanakan, Horasan<h5>"
+  },
+  {
+    "Savaş Adı": "<h5>Pasinler Muharebesi</h5>",
+    "Taraflar": "Büyük Selçuklu X Bizans",
+    "Savaş Yılı ": "<h5>18 Eylül 1048<h5>",
+    "Önemi": "<b>Bizans ile yapılan ilk büyük meydan muharebesidir.</b><br>",
+    "resimUrl": "http:",
+    "Bölge": "<h5>Pasinler (Grekçe: Kapetron) yakını<h5>"
+  },
+  {
+    "Savaş Adı": "<h5>Malazgirt Meydan Muharebesi</h5>",
+    "Taraflar": "Büyük Selçuklu X Bizans İm.",
+    "Savaş Yılı ": "26 Ağustos 1071",
+    "Önemi": "<b>Türklere Anadolu'nun kapılarını açan savaştır.</b><br>",
+    "resimUrl": "http:",
+    "Bölge": "Malazgirt Ovası (Muş)"
+  },
+  {
+    "Savaş Adı": "<h5>Miryokefelon Savaşı</h5>",
+    "Taraflar": "Türkiye Selçuklu X Bizans İm.",
+    "Savaş Yılı ": "17 Eylül 1176",
+    "Önemi": " <b>Türklere anadolu'yu alındığı savaş.</b><br>",
+    "resimUrl": "http:",
+    "Bölge": "Denizli yakınlarında"
+  },
+  {
+    "Savaş Adı": "<h5>Sırp Sındığı Muharebesi</h5>",
+    "Taraflar": "Osmanlı Devleti X  Sırp İmparatorluğu, Macar Krallığı,...",
+    "Savaş Yılı ": "1364",
+    "Önemi": "<b>Kesin Osmanlı zaferi; Bulgaristan'ın Osmanlı Devleti’ni tanıması, Edirne'nin başkent oluşu.</b><br>",
+    "resimUrl": "http:",
+    "Bölge": "Edirne, Meriç Nehri Kıyısı, Sarayakpınar köyü"
+  },
+  {
+    "Savaş Adı": "<h5>Niğbolu Muharebesi</h5>",
+    "Taraflar": "Osmanlı Devleti X Haçlı Ordusu ",
+    "Savaş Yılı ": "24 Eylül 1396",
+    "Önemi": "<b>Son büyük haçlı seferidir. Niğbolu kalesi osmalıya bırakılır.</b><br>",
+    "resimUrl": "http:",
+    "Bölge": "Tuna Nehri Yakınlarında"
+  },
+  {
+    "Savaş Adı": "<h5>Ankara Savaşı</h5>",
+    "Taraflar": "Osmanlı Devleti X Timur ",
+    "Savaş Yılı ": "20 veya 28 Temmuz 1402",
+    "Önemi": "<b>Osmanlı Devleti'nin parçalanmasına ve Fetret Devri (1402-1413) iktidar boşluğu dönemini başlatı.</b><br>",
+    "resimUrl": "http:",
+    "Bölge": "Çubuk Ovası, Ankara"
+  },
+  {
+    "Savaş Adı": "<h5>Mercidabık Muharebesi,</h5>",
+    "Taraflar": "Osmanlı Devleti X Memluk Devleti ",
+    "Savaş Yılı ": "24 Ağustos 1516",
+    "Önemi": "<b>Muharebenin sonucunda Suriye, Lübnan ve Filistin Osmanlı topraklarına katıldı.</b><br>",
+    "resimUrl": "http:",
+    "Bölge": "Dâbık, Halep, Suriye"
+  }
+]
