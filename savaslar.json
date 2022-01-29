@@ -1,6 +1,6 @@
 [
   {
-    "SavasAdi": "<h5>Dandanakan Muharebesi</h5>",
+    "SavasAdi": "Dandanakan Muharebesi",
     "Taraflar": "Büyük Selçuklu X Gazneliler",
     "SavasYili": "23 Mayıs 1040",
     "Onemi": "<b>Gazneliler yıkılma dönemi başlarken selçuklu devleti ise resmen kuruldu.</b><br>",
@@ -8,15 +8,15 @@
     "Bolge": "<h5>Dandanakan, Horasan<h5>"
   },
   {
-    "SavasAdi": "<h5>Pasinler Muharebesi</h5>",
+    "SavasAdi": "Pasinler Muharebesi",
     "Taraflar": "Büyük Selçuklu X Bizans",
-    "SavasYili ": "<h5>18 Eylül 1048<h5>",
+    "SavasYili ": "18 Eylül 1048",
     "Onemi": "<b>Bizans ile yapılan ilk büyük meydan muharebesidir.</b><br>",
     "ResimUrl": "https://raw.githubusercontent.com/serhatTaha/h200038tahaserhatkirci/main/buyuk%20selcuklu.png",
     "Bolge": "<h5>Pasinler (Grekçe: Kapetron) yakını<h5>"
   },
   {
-    "SavasAdi": "<h5>Malazgirt Meydan Muharebesi</h5>",
+    "SavasAdi": "Malazgirt Meydan Muharebesi",
     "Taraflar": "Büyük Selçuklu X Bizans İm.",
     "SavasYili ": "26 Ağustos 1071",
     "Onemi": "<b>Türklere Anadolu'nun kapılarını açan savaştır.</b><br>",
@@ -24,7 +24,7 @@
     "Bolge": "Malazgirt Ovası (Muş)"
   },
   {
-    "SavasAdi": "<h5>Miryokefelon Savaşı</h5>",
+    "SavasAdi": "Miryokefelon Savaşı",
     "Taraflar": "Türkiye Selçuklu X Bizans İm.",
     "SavasYili ": "17 Eylül 1176",
     "Onemi": " <b>Türklere anadolu'yu alındığı savaş.</b><br>",
@@ -32,7 +32,7 @@
     "Bolge": "Denizli yakınlarında"
   },
   {
-    "SavasAdi": "<h5>Sırp Sındığı Muharebesi</h5>",
+    "SavasAdi": "Sırp Sındığı Muharebesi",
     "Taraflar": "Osmanlı Devleti X  Sırp İmparatorluğu, Macar Krallığı,...",
     "SavasYili": "1364",
     "Onemi": "<b>Kesin Osmanlı zaferi; Bulgaristan'ın Osmanlı Devleti’ni tanıması, Edirne'nin başkent oluşu.</b><br>",
@@ -40,7 +40,7 @@
     "Bolge": "Edirne, Meriç Nehri Kıyısı, Sarayakpınar köyü"
   },
   {
-    "SavasAdi": "<h5>Niğbolu Muharebesi</h5>",
+    "SavasAdi": "Niğbolu Muharebesi",
     "Taraflar": "Osmanlı Devleti X Haçlı Ordusu ",
     "SavasYili": "24 Eylül 1396",
     "Onemi": "<b>Son büyük haçlı seferidir. Niğbolu kalesi osmalıya bırakılır.</b><br>",
@@ -48,7 +48,7 @@
     "Bolge": "Tuna Nehri Yakınlarında"
   },
   {
-    "SavasAdi": "<h5>Ankara Savaşı</h5>",
+    "SavasAdi": "Ankara Savaşı",
     "Taraflar": "Osmanlı Devleti X Timur ",
     "SavasYili": "20 veya 28 Temmuz 1402",
     "Onemi": "<b>Osmanlı Devleti'nin parçalanmasına ve Fetret Devri (1402-1413) iktidar boşluğu dönemini başlatı.</b><br>",
@@ -56,7 +56,7 @@
     "Bolge": "Çubuk Ovası, Ankara"
   },
   {
-    "SavasAdi": "<h5>Mercidabık Muharebesi,</h5>",
+    "SavasAdi": "Mercidabık Muharebesi",
     "Taraflar": "Osmanlı Devleti X Memluk Devleti ",
     "SavasYili": "24 Ağustos 1516",
     "Onemi": "<b>Muharebenin sonucunda Suriye, Lübnan ve Filistin Osmanlı topraklarına katıldı.</b><br>",
